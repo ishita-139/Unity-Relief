@@ -1,5 +1,9 @@
 # Unity Relief - Disaster Relief Coordination Platform
 
+## Quine Submission
+
+  [![ishita-139's GitHub | Languages Over Time](https://stats.quine.sh/ishita-139/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ishita-139)
+
 
 ## Introduction
 
@@ -64,9 +68,5 @@ npm start
 6. Access the app at `http://localhost:3000` on your web browser.
 
 ## Usage
-
-- Register and login to the app using your credentials.
 - Explore the available features, including donating, volunteering, and locating nearby resources.
 - Receive real-time updates and alerts during disaster situations.
-
-  [![ishita-139's GitHub | Languages Over Time](https://stats.quine.sh/ishita-139/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ishita-139)
