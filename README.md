@@ -68,3 +68,5 @@ npm start
 - Register and login to the app using your credentials.
 - Explore the available features, including donating, volunteering, and locating nearby resources.
 - Receive real-time updates and alerts during disaster situations.
+
+  [![ishita-139's GitHub | Languages Over Time](https://stats.quine.sh/ishita-139/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ishita-139)
